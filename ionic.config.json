@@ -1,0 +1,7 @@
+{
+  "name": "plateform-covoiturage",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
